@@ -3,13 +3,13 @@
 	"id": "dryfarming",
 	"version": "${version}",
 	"name": "DryFarming",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Farmland no longer needs water.",
 	"authors": [
-		"Me!"
+		"kurarage"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/kurarage",
+		"sources": "https://github.com/kurarage/dry-farming"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/dryfarming/icon.png",

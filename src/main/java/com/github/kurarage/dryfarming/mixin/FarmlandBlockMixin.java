@@ -20,7 +20,7 @@ public class FarmlandBlockMixin {
             )
     )
     private void disableDrying(
-            Entity entity,
+            Entity sourceEntity,
             BlockState state,
             Level level,
             BlockPos pos

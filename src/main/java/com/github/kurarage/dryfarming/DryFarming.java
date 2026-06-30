@@ -23,8 +23,4 @@ public class DryFarming implements ModInitializer {
 
         LOGGER.info("Dried Farm loaded.");
 	}
-
-	public static Identifier id(String path) {
-		return Identifier.fromNamespaceAndPath(MOD_ID, path);
-	}
 }
