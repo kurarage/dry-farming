@@ -3,15 +3,14 @@
 	"id": "dryfarming",
 	"version": "${version}",
 	"name": "DryFarming",
-	"description": "Farmland no longer needs water.",
+	"description": "Prevents farmland from drying out.",
 	"authors": [
 		"kurarage"
 	],
 	"contact": {
-		"homepage": "https://github.com/kurarage",
 		"sources": "https://github.com/kurarage/dry-farming"
 	},
-	"license": "CC0-1.0",
+    "license": "MIT",
 	"icon": "assets/dryfarming/icon.png",
 	"environment": "*",
 	"entrypoints": {
